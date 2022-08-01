@@ -1,0 +1,5 @@
+magyar
+olasz
+angol
+francia
+spanyol
